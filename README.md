@@ -1,10 +1,10 @@
 # JuniorStarter
 
 ## Esential technologies (my subjective choice)
-1. Programming language - **JAVA**
-2. IDE - **Intellij IDEA**
-3. Build tool - **MAVEN**
-4. Rest/Dependency Injection/(..) framework - **Spring BOOT**
-5. Version Control - **GIT**
+1. **JAVA** - programming language
+2. **Intellij IDEA** - IDE  
+3. **MAVEN** - build tool 
+4. **Spring BOOT** - Rest/Dependency Injection/(..) framework
+5. **GIT** - Version Control
 
 ### Intellij IDEA
