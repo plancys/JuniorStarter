@@ -6,3 +6,5 @@
 3. Build tool - MAVEN
 4. Rest/Dependency Injection/(..) framework - Spring BOOT
 5. Version Control - GIT
+
+### Intellij IDEA
