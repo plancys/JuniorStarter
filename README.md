@@ -8,4 +8,4 @@
 5. **GIT** - Version Control
 
 ## Path
-[Lesson 1](https://github.com/plancys/JuniorStarter/blob/master/Lesson-001/README.md)
+[Lesson 1 - Setup SERVER](https://github.com/plancys/JuniorStarter/blob/master/Lesson-001/README.md)
