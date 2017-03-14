@@ -7,4 +7,5 @@
 4. **Spring BOOT** - Rest/Dependency Injection/(..) framework
 5. **GIT** - Version Control
 
-### Intellij IDEA
+## Path
+[Lesson 1](https://github.com/plancys/JuniorStarter/blob/master/Lesson-001/README.md)
