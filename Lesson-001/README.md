@@ -74,4 +74,22 @@ OS name: "mac os x", version: "10.12.3", arch: "x86_64", family: "mac"
 This is program with graphic interface, just run it.
 
 ## 2. Create github account
-[Just create it](https://github.com/join?source=header-home)
+1. [Just create it](https://github.com/join?source=header-home).
+2. [Generate a new SSH key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#platform-mac).
+3. Copy your public SSH key
+console: ```cat ~/.ssh/id_rsa.pub```
+you should see something like that (with different key and email):
+```
+ssh-rsa DFS4fdsfs3csdcs3/3ss3S3datH7JPPGqQux006+TjrBVtnL7wTGIUujBwkrvPnP1SY5Y3/R6rrSvVoioyicq8d9SLpUk
+Cu4Jdj9ADSFaIvDCEwFREFKedeVqu92GrQ0CmzoAY5FJ2EbTn08Fq7IQSGMkZlwJCVIsN1hsvXLimqAqGpEi4BGcz5sV6
+IHbAPldRdwTNzgQjGTn2P3sOx+FyLnPMJW38MeW7u5wMD4nOeheNFb4kunDW66IJuknZVGD93oVTakt8RYp3LJTfoP5pN
+SybX9x2urxuRd4u998L/jOS2ddasEWwsa1rrZeCw7Kgqo9soMGShHeL8lKq0Rdc+plyXLIbdZ/Q9rWc52x+z3ybbN9vr2
+jgKdZldC1gljgCNte8FN3NKn46I/LgsOOWNEZcSGYi+6m/2GTqTCl4pufBFFoUA044sda534dsf9LFybMtK9Vw49LHhdK
+bF78ghMA4tIzUhSALvc4pv1PhkLoQsOjGURT+WYjKJS2rEBFgRyqGLPJbOTVn4Skp9nvQIlJI7KqpPoweLb29TYXupoQ4
+eBPlwGpls9DPd+mazGZm4S18etw== your_email@something.com
+```
+Copy it and paste in point 4.
+
+4. Upload it to github account - [instruction here - starting from point 2](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
+
+5. Check whether it works (TODO: finnish instruction)
