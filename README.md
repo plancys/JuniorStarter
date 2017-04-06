@@ -12,4 +12,5 @@ My approach to learning is somehow different that typical path. I prefer to star
 
 ## Path
 [Lesson 1 - Setup environment](https://github.com/plancys/JuniorStarter/blob/master/Lesson-001/README.md)
+
 [Lesson 2 - (Upcomming) Running a server ](https://github.com/plancys/JuniorStarter/blob/master/Lesson-001/README.md)
