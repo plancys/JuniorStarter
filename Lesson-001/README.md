@@ -69,3 +69,6 @@ Java home: /Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home/jre
 Default locale: pl_PL, platform encoding: UTF-8
 OS name: "mac os x", version: "10.12.3", arch: "x86_64", family: "mac"
 ```
+
+### Intellij IDEA
+This is program with graphic interface, just run it.
