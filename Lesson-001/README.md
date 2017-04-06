@@ -1,6 +1,6 @@
 # Lesson 1 - Installing essential software / setting up programming environment
 
-## Required software
+## 1. Install required software
 
 Before you start check whether these software is already installed on your computer or not. If not then install it and when you finnish check whether is installed properly.
 
@@ -72,3 +72,4 @@ OS name: "mac os x", version: "10.12.3", arch: "x86_64", family: "mac"
 
 ### Intellij IDEA
 This is program with graphic interface, just run it.
+
