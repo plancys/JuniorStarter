@@ -73,3 +73,5 @@ OS name: "mac os x", version: "10.12.3", arch: "x86_64", family: "mac"
 ### Intellij IDEA
 This is program with graphic interface, just run it.
 
+## 2. Create github account
+[Just create it](https://github.com/join?source=header-home)
