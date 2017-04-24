@@ -11,6 +11,8 @@ My approach to learning is somehow different that typical path. I prefer to star
 5. **GIT** - Version Control
 
 ## Path
-[Lesson 1 - Setup environment](https://github.com/plancys/JuniorStarter/blob/master/Lesson-001/README.md)
+[Lesson 1 - Setup environment](Lesson-001/README.md)
 
-[Lesson 2 - Running a server ](https://github.com/plancys/JuniorStarter/blob/master/Lesson-2/README.md)
+[Lesson 2 - Running a server ](Lesson-002/README.md)
+
+[Lesson 3 - Hello World from Server ](Lesson-003/README.md)
