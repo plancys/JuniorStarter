@@ -14,7 +14,7 @@ If you did it corectly it should looks like this:
 ## 3. Run project
 
 Simply click run button near **Demo appication**
-[Imgur](http://i.imgur.com/aCbxhc1.png)
+<img src="http://i.imgur.com/aCbxhc1.png" height="20px"/>
 When your server start you should see this:
 <img src="http://i.imgur.com/QpXTeg8.png" width="640px"/>
 
