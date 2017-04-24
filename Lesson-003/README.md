@@ -10,4 +10,7 @@
  
 Type in your web browser following address ```http://localhost:8080/hello``` you should get ```Hello World``` in your browser as response.
 
-## 2. How it works?
+## 2. How it works / What you need to know?
+
+### HTTP / Rest
+[How HTTP/Rest works introduction](https://youtu.be/7YcW25PHnAA)
