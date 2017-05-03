@@ -1,4 +1,4 @@
-package pl.server;
+package pl.server.spring;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
